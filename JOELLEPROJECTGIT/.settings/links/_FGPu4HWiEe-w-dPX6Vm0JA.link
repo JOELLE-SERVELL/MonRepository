@@ -1,0 +1,18 @@
+{
+  "itemId" : "_FGPu4HWiEe-w-dPX6Vm0JA",
+  "contextList" : [ {
+    "contextName" : "DEV",
+    "repoId" : "_ix00sHWnEe-w-dPX6Vm0JA",
+    "parameterList" : [ {
+      "id" : "_ix9XkXWnEe-w-dPX6Vm0JA",
+      "name" : "Repertoire"
+    } ]
+  }, {
+    "contextName" : "PROD",
+    "repoId" : "_ix00sHWnEe-w-dPX6Vm0JA",
+    "parameterList" : [ {
+      "id" : "_ix9XkXWnEe-w-dPX6Vm0JA",
+      "name" : "Repertoire"
+    } ]
+  } ]
+}

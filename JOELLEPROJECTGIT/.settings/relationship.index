@@ -1,1 +1,186 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_0GMrUHT-Ee-KwrDRf7WX5Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1xyTIHTtEe-KwrDRf7WX5Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_9eWgwHTuEe-KwrDRf7WX5Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_1xyTIHTtEe-KwrDRf7WX5Q - src_city",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9eWgwHTuEe-KwrDRf7WX5Q - trg_city",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_6CeD8HWXEe-w-dPX6Vm0JA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1xyTIHTtEe-KwrDRf7WX5Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_9eWgwHTuEe-KwrDRf7WX5Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_1xyTIHTtEe-KwrDRf7WX5Q - src_product",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9eWgwHTuEe-KwrDRf7WX5Q - trg_prod_family",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9eWgwHTuEe-KwrDRf7WX5Q - trg_product",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_9TQmoHWUEe-w-dPX6Vm0JA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-hi7wHTxEe-KwrDRf7WX5Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_1xyTIHTtEe-KwrDRf7WX5Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_9eWgwHTuEe-KwrDRf7WX5Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_-hi7wHTxEe-KwrDRf7WX5Q - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_1xyTIHTtEe-KwrDRf7WX5Q - src_product",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9eWgwHTuEe-KwrDRf7WX5Q - trg_prod_family",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_CDfasHUBEe-KwrDRf7WX5Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1xyTIHTtEe-KwrDRf7WX5Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_9eWgwHTuEe-KwrDRf7WX5Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_c5r0UHTxEe-KwrDRf7WX5Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ilgkIHTwEe-KwrDRf7WX5Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_1xyTIHTtEe-KwrDRf7WX5Q - src_customer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9eWgwHTuEe-KwrDRf7WX5Q - trg_customer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_c5r0UHTxEe-KwrDRf7WX5Q - sales_person",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_ilgkIHTwEe-KwrDRf7WX5Q - age_group",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_FGPu4HWiEe-w-dPX6Vm0JA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ix00sHWnEe-w-dPX6Vm0JA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_ABVDgHWiEe-w-dPX6Vm0JA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_wR-OsHWhEe-w-dPX6Vm0JA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "__5lrwHT8Ee-KwrDRf7WX5Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1xyTIHTtEe-KwrDRf7WX5Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_9eWgwHTuEe-KwrDRf7WX5Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_1xyTIHTtEe-KwrDRf7WX5Q - src_region",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9eWgwHTuEe-KwrDRf7WX5Q - trg_region",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_fCokMHT5Ee-KwrDRf7WX5Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1xyTIHTtEe-KwrDRf7WX5Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_9eWgwHTuEe-KwrDRf7WX5Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_9eWgwHTuEe-KwrDRf7WX5Q - trg_country",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
